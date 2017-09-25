@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcd19f6a-df88-4082-86ac-0c39fd1ffe7f" name="Default" comment="" />
+    <ignored path="amtu.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="amtu" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/final.php.html" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/final.php" />
+        <option value="$PROJECT_DIR$/style-upload.css" />
+        <option value="$PROJECT_DIR$/images/classIMK.svg" />
+        <option value="$PROJECT_DIR$/images/classSD.svg" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/js/tanggaljam.js" />
+        <option value="$PROJECT_DIR$/function/webmethod.php" />
+        <option value="$PROJECT_DIR$/function/webdb.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="6" />
+    <option name="y" value="23" />
+    <option name="width" value="1319" />
+    <option name="height" value="689" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="amtu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="amtu" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/js/upload" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcd19f6a-df88-4082-86ac-0c39fd1ffe7f" name="Default" comment="" />
+      <created>1461256421300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1461256421300</updated>
+      <workItem from="1465169823098" duration="137000" />
+      <workItem from="1465596985028" duration="7481000" />
+      <workItem from="1465629848879" duration="442000" />
+      <workItem from="1465759335978" duration="1805000" />
+      <workItem from="1465771612425" duration="5900000" />
+      <workItem from="1465780103188" duration="1247000" />
+      <workItem from="1465794672185" duration="311000" />
+      <workItem from="1465805259426" duration="2368000" />
+      <workItem from="1465947293027" duration="201000" />
+      <workItem from="1477195625025" duration="2873000" />
+      <workItem from="1477256602764" duration="6661000" />
+      <workItem from="1506345492324" duration="131000" />
+      <workItem from="1506345628821" duration="1410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30968000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="6" y="23" width="1319" height="689" extended-state="1" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20125294" sideWeight="0.87102175" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24823806" sideWeight="0.12897822" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20125294" sideWeight="0.87102175" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289256" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24823806" sideWeight="0.12897822" order="2" side_tool="true" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20125294" sideWeight="0.87102175" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289256" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24823806" sideWeight="0.12897822" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/function/webdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/webmethod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+            <marker date="1506348446000" expanded="true" signature="534:610" ph="SELECT passw..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="722:829" ph="SELECT analy... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="948:1055" ph="SELECT revis... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="1173:1280" ph="SELECT revis... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="1479:1561" ph="SELECT start... amtu_user_imk_final" />
+            <marker date="1506348446000" expanded="true" signature="1740:1813" ph="SELECT start... amtu_user_imk_final" />
+            <marker date="1506348446000" expanded="true" signature="2045:2119" ph="SELECT task_... amtu_task_upload_limit" />
+            <marker date="1506348446000" expanded="true" signature="2251:2331" ph="SELECT end_t..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="2591:2605" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="2668:2684" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="3564:3683" ph="INSERT INTO amtu_user_analysis... " />
+            <marker date="1506348446000" expanded="true" signature="3783:3896" ph="SELECT stude... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="3989:4020" ph="SELECT stude..amtu..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4031" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4038" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4043" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4065" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4181" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4189" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4215" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="5435:5528" ph="INSERT INTO amtu_user..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5628" ph="SELECT * FRO..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5629" ph="SELECT * FRO..matu..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5633" ph="SELECT * FRO..amtu..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5688" ph="SELECT reg_t..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6097" ph="SELECT * FRO..amtu_user_final..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6113" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6129" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6130" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6146" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6311" ph="INSERT INTO amtu_user_..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6315" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6410" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6499" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6753:6784" ph="SELECT end_t..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6753:6833" ph="SELECT end_t..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="16368:16425" ph="SELECT * FRO..amtu_user..." />
+            <marker date="1506348446000" expanded="true" signature="16525:16643" ph="INSERT INTO amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="16720:16794" ph="SELECT due_t..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17113:17186" ph="SELECT allow..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17474:17552" ph="SELECT uploa..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17700:17815" ph="SELECT count..amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="18209:18288" ph="SELECT max_f..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="18616:18683" ph="SELECT * FRO..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="19594:19688" ph="SELECT time ..." />
+            <marker date="1506348446000" expanded="true" signature="20482:20557" ph="SELECT task_..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="20670:20791" ph="INSERT INTO amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="20877:20946" ph="INSERT INTO amtu_upload_trial..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+            <marker date="1506348446000" expanded="true" signature="3456:4379" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="3462:4021" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4070:4369" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4118:4215" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4221:4339" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4468:5096" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="4474:4850" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4899:5086" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4947:5056" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5185:5822" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5191:5576" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="5625:5812" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5673:5782" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5911:6531" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5917:6285" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="6334:6521" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6382:6491" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6620:7224" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="6626:6978" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7027:7214" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7075:7184" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7313:7920" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="7319:7674" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7723:7910" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7771:7880" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8010:8910" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="8016:8552" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="8601:8900" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8649:8746" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8752:8870" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9000:9627" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="9006:9381" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="9430:9617" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9478:9587" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tanggaljam.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="172" column="31" lean-forward="false" selection-start-line="172" selection-start-column="31" selection-end-line="172" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/webdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/webmethod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="226" column="33" lean-forward="false" selection-start-line="226" selection-start-column="33" selection-end-line="226" selection-end-column="33" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+            <marker date="1506348446000" expanded="true" signature="534:610" ph="SELECT passw..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="722:829" ph="SELECT analy... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="948:1055" ph="SELECT revis... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="1173:1280" ph="SELECT revis... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="1479:1561" ph="SELECT start... amtu_user_imk_final" />
+            <marker date="1506348446000" expanded="true" signature="1740:1813" ph="SELECT start... amtu_user_imk_final" />
+            <marker date="1506348446000" expanded="true" signature="2045:2119" ph="SELECT task_... amtu_task_upload_limit" />
+            <marker date="1506348446000" expanded="true" signature="2251:2331" ph="SELECT end_t..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="2591:2605" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="2668:2684" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="3564:3683" ph="INSERT INTO amtu_user_analysis... " />
+            <marker date="1506348446000" expanded="true" signature="3783:3896" ph="SELECT stude... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="3989:4020" ph="SELECT stude..amtu..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4031" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4038" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4043" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4065" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4181" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4189" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4215" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="5435:5528" ph="INSERT INTO amtu_user..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5628" ph="SELECT * FRO..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5629" ph="SELECT * FRO..matu..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5633" ph="SELECT * FRO..amtu..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5688" ph="SELECT reg_t..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6097" ph="SELECT * FRO..amtu_user_final..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6113" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6129" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6130" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6146" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6311" ph="INSERT INTO amtu_user_..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6315" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6410" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6499" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6753:6784" ph="SELECT end_t..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6753:6833" ph="SELECT end_t..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="16368:16425" ph="SELECT * FRO..amtu_user..." />
+            <marker date="1506348446000" expanded="true" signature="16525:16643" ph="INSERT INTO amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="16720:16794" ph="SELECT due_t..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17113:17186" ph="SELECT allow..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17474:17552" ph="SELECT uploa..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17700:17815" ph="SELECT count..amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="18209:18288" ph="SELECT max_f..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="18616:18683" ph="SELECT * FRO..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="19594:19688" ph="SELECT time ..." />
+            <marker date="1506348446000" expanded="true" signature="20482:20557" ph="SELECT task_..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="20670:20791" ph="INSERT INTO amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="20877:20946" ph="INSERT INTO amtu_upload_trial..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+            <marker date="1506348446000" expanded="true" signature="3456:4379" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="3462:4021" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4070:4369" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4118:4215" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4221:4339" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4468:5096" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="4474:4850" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4899:5086" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4947:5056" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5185:5822" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5191:5576" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="5625:5812" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5673:5782" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5911:6531" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5917:6285" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="6334:6521" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6382:6491" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6620:7224" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="6626:6978" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7027:7214" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7075:7184" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7313:7920" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="7319:7674" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7723:7910" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7771:7880" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8010:8910" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="8016:8552" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="8601:8900" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8649:8746" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8752:8870" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9000:9627" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="9006:9381" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="9430:9617" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9478:9587" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tanggaljam.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="172" column="31" lean-forward="false" selection-start-line="172" selection-start-column="31" selection-end-line="172" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/webdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/webmethod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="226" column="33" lean-forward="false" selection-start-line="226" selection-start-column="33" selection-end-line="226" selection-end-column="33" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+            <marker date="1506348446000" expanded="true" signature="534:610" ph="SELECT passw..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="722:829" ph="SELECT analy... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="948:1055" ph="SELECT revis... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="1173:1280" ph="SELECT revis... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="1479:1561" ph="SELECT start... amtu_user_imk_final" />
+            <marker date="1506348446000" expanded="true" signature="1740:1813" ph="SELECT start... amtu_user_imk_final" />
+            <marker date="1506348446000" expanded="true" signature="2045:2119" ph="SELECT task_... amtu_task_upload_limit" />
+            <marker date="1506348446000" expanded="true" signature="2251:2331" ph="SELECT end_t..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="2591:2605" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="2668:2684" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="3564:3683" ph="INSERT INTO amtu_user_analysis... " />
+            <marker date="1506348446000" expanded="true" signature="3783:3896" ph="SELECT stude... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="3989:4020" ph="SELECT stude..amtu..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4031" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4038" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4043" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4065" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4181" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4189" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4215" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="5435:5528" ph="INSERT INTO amtu_user..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5628" ph="SELECT * FRO..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5629" ph="SELECT * FRO..matu..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5633" ph="SELECT * FRO..amtu..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5688" ph="SELECT reg_t..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6097" ph="SELECT * FRO..amtu_user_final..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6113" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6129" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6130" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6146" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6311" ph="INSERT INTO amtu_user_..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6315" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6410" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6499" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6753:6784" ph="SELECT end_t..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6753:6833" ph="SELECT end_t..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="16368:16425" ph="SELECT * FRO..amtu_user..." />
+            <marker date="1506348446000" expanded="true" signature="16525:16643" ph="INSERT INTO amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="16720:16794" ph="SELECT due_t..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17113:17186" ph="SELECT allow..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17474:17552" ph="SELECT uploa..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17700:17815" ph="SELECT count..amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="18209:18288" ph="SELECT max_f..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="18616:18683" ph="SELECT * FRO..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="19594:19688" ph="SELECT time ..." />
+            <marker date="1506348446000" expanded="true" signature="20482:20557" ph="SELECT task_..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="20670:20791" ph="INSERT INTO amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="20877:20946" ph="INSERT INTO amtu_upload_trial..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+            <marker date="1506348446000" expanded="true" signature="3456:4379" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="3462:4021" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4070:4369" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4118:4215" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4221:4339" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4468:5096" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="4474:4850" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4899:5086" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4947:5056" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5185:5822" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5191:5576" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="5625:5812" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5673:5782" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5911:6531" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5917:6285" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="6334:6521" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6382:6491" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6620:7224" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="6626:6978" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7027:7214" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7075:7184" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7313:7920" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="7319:7674" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7723:7910" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7771:7880" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8010:8910" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="8016:8552" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="8601:8900" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8649:8746" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8752:8870" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9000:9627" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="9006:9381" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="9430:9617" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9478:9587" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tanggaljam.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/webdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/webdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/webmethod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+            <marker date="1506348446000" expanded="true" signature="534:610" ph="SELECT passw..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="722:829" ph="SELECT analy... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="948:1055" ph="SELECT revis... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="1173:1280" ph="SELECT revis... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="1479:1561" ph="SELECT start... amtu_user_imk_final" />
+            <marker date="1506348446000" expanded="true" signature="1740:1813" ph="SELECT start... amtu_user_imk_final" />
+            <marker date="1506348446000" expanded="true" signature="2045:2119" ph="SELECT task_... amtu_task_upload_limit" />
+            <marker date="1506348446000" expanded="true" signature="2251:2331" ph="SELECT end_t..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="2591:2605" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="2668:2684" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="3564:3683" ph="INSERT INTO amtu_user_analysis... " />
+            <marker date="1506348446000" expanded="true" signature="3783:3896" ph="SELECT stude... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="3989:4020" ph="SELECT stude..amtu..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4031" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4038" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4043" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4065" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4181" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4189" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4215" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="5435:5528" ph="INSERT INTO amtu_user..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5628" ph="SELECT * FRO..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5629" ph="SELECT * FRO..matu..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5633" ph="SELECT * FRO..amtu..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5688" ph="SELECT reg_t..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6097" ph="SELECT * FRO..amtu_user_final..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6113" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6129" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6130" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6146" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6311" ph="INSERT INTO amtu_user_..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6315" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6410" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6499" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6753:6784" ph="SELECT end_t..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6753:6833" ph="SELECT end_t..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="16368:16425" ph="SELECT * FRO..amtu_user..." />
+            <marker date="1506348446000" expanded="true" signature="16525:16643" ph="INSERT INTO amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="16720:16794" ph="SELECT due_t..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17113:17186" ph="SELECT allow..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17474:17552" ph="SELECT uploa..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17700:17815" ph="SELECT count..amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="18209:18288" ph="SELECT max_f..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="18616:18683" ph="SELECT * FRO..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="19594:19688" ph="SELECT time ..." />
+            <marker date="1506348446000" expanded="true" signature="20482:20557" ph="SELECT task_..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="20670:20791" ph="INSERT INTO amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="20877:20946" ph="INSERT INTO amtu_upload_trial..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="117" column="41" lean-forward="false" selection-start-line="117" selection-start-column="41" selection-end-line="117" selection-end-column="41" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+            <marker date="1506348446000" expanded="true" signature="3456:4379" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="3462:4021" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4070:4369" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4118:4215" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4221:4339" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4468:5096" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="4474:4850" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4899:5086" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4947:5056" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5185:5822" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5191:5576" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="5625:5812" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5673:5782" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5911:6531" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5917:6285" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="6334:6521" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6382:6491" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6620:7224" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="6626:6978" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7027:7214" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7075:7184" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7313:7920" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="7319:7674" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7723:7910" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7771:7880" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8010:8910" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="8016:8552" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="8601:8900" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8649:8746" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8752:8870" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9000:9627" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="9006:9381" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="9430:9617" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9478:9587" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+            <marker date="1506348446000" expanded="true" signature="3456:4379" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="3462:4021" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4070:4369" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4118:4215" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4221:4339" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4468:5096" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="4474:4850" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4899:5086" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4947:5056" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5185:5822" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5191:5576" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="5625:5812" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5673:5782" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5911:6531" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5917:6285" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="6334:6521" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6382:6491" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6620:7224" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="6626:6978" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7027:7214" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7075:7184" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7313:7920" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="7319:7674" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7723:7910" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7771:7880" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8010:8910" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="8016:8552" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="8601:8900" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8649:8746" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8752:8870" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9000:9627" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="9006:9381" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="9430:9617" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9478:9587" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="86" column="21" lean-forward="false" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+            <marker date="1506348446000" expanded="true" signature="3456:4379" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="3462:4021" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4070:4369" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4118:4215" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4221:4339" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4468:5096" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="4474:4850" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4899:5086" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4947:5056" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5185:5822" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5191:5576" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="5625:5812" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5673:5782" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5911:6531" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5917:6285" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="6334:6521" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6382:6491" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6620:7224" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="6626:6978" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7027:7214" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7075:7184" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7313:7920" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="7319:7674" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7723:7910" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7771:7880" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8010:8910" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="8016:8552" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="8601:8900" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8649:8746" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8752:8870" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9000:9627" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="9006:9381" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="9430:9617" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9478:9587" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="86" column="21" lean-forward="false" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/agreement.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.validate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sweetalert-dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sweetalert.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-1.12.4.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/upload/jquery.iframe-transport.js" />
+    <entry file="file://$PROJECT_DIR$/js/upload/jquery.fileupload.js" />
+    <entry file="file://$PROJECT_DIR$/js/upload/script.js" />
+    <entry file="file://$PROJECT_DIR$/js/wow.min.js" />
+    <entry file="file://$PROJECT_DIR$/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style-upload.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1771">
+          <caret line="78" column="20" lean-forward="false" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/image1.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/classIMK.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="58" column="228" lean-forward="false" selection-start-line="58" selection-start-column="228" selection-end-line="58" selection-end-column="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/classSD.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="58" column="166" lean-forward="false" selection-start-line="58" selection-start-column="166" selection-end-line="58" selection-end-column="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tanggaljam.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/init.php" />
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/reg.php" />
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="136" column="26" lean-forward="false" selection-start-line="136" selection-start-column="23" selection-end-line="136" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final.php" />
+    <entry file="file://$PROJECT_DIR$/function/webmethod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1397">
+          <caret line="678" column="3" lean-forward="false" selection-start-line="678" selection-start-column="3" selection-end-line="678" selection-end-column="3" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+            <marker date="1506348446000" expanded="true" signature="534:610" ph="SELECT passw..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="722:829" ph="SELECT analy... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="948:1055" ph="SELECT revis... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="1173:1280" ph="SELECT revis... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="1479:1561" ph="SELECT start... amtu_user_imk_final" />
+            <marker date="1506348446000" expanded="true" signature="1740:1813" ph="SELECT start... amtu_user_imk_final" />
+            <marker date="1506348446000" expanded="true" signature="2045:2119" ph="SELECT task_... amtu_task_upload_limit" />
+            <marker date="1506348446000" expanded="true" signature="2251:2331" ph="SELECT end_t..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="2591:2605" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="2668:2684" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="3564:3683" ph="INSERT INTO amtu_user_analysis... " />
+            <marker date="1506348446000" expanded="true" signature="3783:3896" ph="SELECT stude... amtu_user_analysis" />
+            <marker date="1506348446000" expanded="true" signature="3989:4020" ph="SELECT stude..amtu..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4031" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4038" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4043" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="3989:4065" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4181" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4189" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="4148:4215" ph="SELECT stude..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="5435:5528" ph="INSERT INTO amtu_user..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5628" ph="SELECT * FRO..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5629" ph="SELECT * FRO..matu..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5633" ph="SELECT * FRO..amtu..." />
+            <marker date="1506348446000" expanded="true" signature="5608:5688" ph="SELECT reg_t..amtu_user_imk_final..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6097" ph="SELECT * FRO..amtu_user_final..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6113" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6129" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6130" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6060:6146" ph="SELECT * FRO..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6311" ph="INSERT INTO amtu_user_..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6315" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6410" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6289:6499" ph="INSERT INTO amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6753:6784" ph="SELECT end_t..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="6753:6833" ph="SELECT end_t..amtu_user_final_imk..." />
+            <marker date="1506348446000" expanded="true" signature="16368:16425" ph="SELECT * FRO..amtu_user..." />
+            <marker date="1506348446000" expanded="true" signature="16525:16643" ph="INSERT INTO amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="16720:16794" ph="SELECT due_t..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17113:17186" ph="SELECT allow..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17474:17552" ph="SELECT uploa..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="17700:17815" ph="SELECT count..amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="18209:18288" ph="SELECT max_f..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="18616:18683" ph="SELECT * FRO..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="19594:19688" ph="SELECT time ..." />
+            <marker date="1506348446000" expanded="true" signature="20482:20557" ph="SELECT task_..amtu_task_upload_limit..." />
+            <marker date="1506348446000" expanded="true" signature="20670:20791" ph="INSERT INTO amtu_user_task..." />
+            <marker date="1506348446000" expanded="true" signature="20877:20946" ph="INSERT INTO amtu_upload_trial..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/webdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="61" lean-forward="true" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <folding>
+            <element signature="e#7#125#0#PHP" expanded="true" />
+            <marker date="1506348446000" expanded="true" signature="3456:4379" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="3462:4021" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4070:4369" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4118:4215" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4221:4339" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4468:5096" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="4474:4850" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="4899:5086" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="4947:5056" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5185:5822" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5191:5576" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="5625:5812" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5673:5782" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="5911:6531" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="5917:6285" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="6334:6521" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6382:6491" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="6620:7224" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="6626:6978" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7027:7214" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7075:7184" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7313:7920" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="7319:7674" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="7723:7910" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="7771:7880" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8010:8910" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="8016:8552" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="8601:8900" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8649:8746" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="8752:8870" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9000:9627" ph="..." />
+            <marker date="1506348446000" expanded="true" signature="9006:9381" ph="{&quot;title&quot;: &quot;Upload gagal!&quot;...}" />
+            <marker date="1506348446000" expanded="true" signature="9430:9617" ph="{...}" />
+            <marker date="1506348446000" expanded="true" signature="9478:9587" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
